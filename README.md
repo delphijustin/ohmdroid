@@ -3,7 +3,7 @@ An android ohm meter based on macrodroid and headset buttons
 
 1. To use it download the free or pro version of macro droid
    https://play.google.com/store/apps/details?id=com.arlosoft.macrodroi
-2. Upload the mdr file to the android device
+2. Upload the mdr file to the android device and import the macros
 3. try shorting the test leads and see if you get a black testbox sayung 70 or less.
 4. When done disable all macros.
 
