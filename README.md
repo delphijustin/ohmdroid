@@ -18,3 +18,5 @@ You will need to cut and solder to the cord.
 
 Schematic:<br>
 <img src="OHMDROID-circuit.png">
+
+NOTE: Some ranges work after being disconnect from the resistor under test or holded on there and released
