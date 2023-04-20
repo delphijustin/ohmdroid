@@ -2,10 +2,10 @@
 An android ohm meter based on macrodroid and headset buttons
 
 1. To use it download the free or pro version of macro droid
-2. https://play.google.com/store/apps/details?id=com.arlosoft.macrodroi
-3. Upload the mdr file to the android device
-4. try shorting the test leads and see if you get a black testbox sayung 70 or less.
-5. When done disable all macros.
+   https://play.google.com/store/apps/details?id=com.arlosoft.macrodroi
+2. Upload the mdr file to the android device
+3. try shorting the test leads and see if you get a black testbox sayung 70 or less.
+4. When done disable all macros.
 
 To learn more visit https://source.android.com/docs/core/interaction/accessories/headset/jack-headset-spec
 
